@@ -1,9 +1,3 @@
-/* Disciplina: Programacao Concorrente */
-/* Prof.: Silvana Rossetto */
-/* Laboratório: 11 */
-/* Codigo: Exemplo de uso de futures */
-/* -------------------------------------------------------------------*/
-
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
